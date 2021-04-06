@@ -1,6 +1,6 @@
 # 👋🏻 Hi there, I'm Brenda
 
-## I'm am an aspiring Software Engineer
+## I'm an aspiring Software Engineer
 
 I am currently enrolled in the Flatiron School Software Engineering program and looking to collaborate with other content creators.
 
