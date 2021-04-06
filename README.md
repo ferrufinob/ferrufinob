@@ -10,6 +10,6 @@ I am currently enrolled in the Flatiron School Software Engineering program and 
 - [The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/share/101WeYAEYbdl5VQngD/)
 - [JavaScript Algorithms and Data Structures Masterclass by Colt Steele](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrufinob&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrufinob&theme=onedark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark)
