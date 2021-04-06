@@ -12,4 +12,4 @@ I am currently enrolled in the Flatiron School Software Engineering program and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrufinob&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrufino&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=tokyonight)
