@@ -14,4 +14,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "brendaferrufino-22455.medium.com"
-"
