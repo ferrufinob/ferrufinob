@@ -17,4 +17,7 @@ I am currently enrolled in the Flatiron School Software Engineering program and 
 📕 My Blogs
 
 <!-- BLOG-POST-LIST:START -->
+
+[My First JavaScrip Application](https://brendaferrufino-22455.medium.com/my-javascript-learning-journey-729dd32a5b20)
+
 <!-- BLOG-POST-LIST:END -->
