@@ -6,7 +6,7 @@ I am currently enrolled in the Flatiron School Software Engineering program and 
 
 ### I'm currently working on
 
-- Javascript [Flatiron School](https://flatironschool.com)
+- React [Flatiron School](https://flatironschool.com)
 - [The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 
 📕 My Blogs
