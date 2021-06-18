@@ -6,8 +6,12 @@
 
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+
+### I'm currently learning
+
 - Node.js
 - Creating responsive and accessible websites
+- diving into data structures and algorithms
 
 📕 My Blogs
 
@@ -19,6 +23,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Technologies: Ruby, Rails, SQL, JavaScript, ReactJS, Redux, HTML, CSS
+
+### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino)
 
 <div align="center">
 
