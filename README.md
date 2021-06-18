@@ -1,13 +1,13 @@
 # 👋🏻 Hi there, I'm Brenda
 
-## I'm an aspiring Software Engineer
-
-I am currently enrolled in the Flatiron School Software Engineering program and looking to collaborate with other content creators.
+## I am a Full Stack Software Engineer looking to collaborate with other content creators.
 
 ### I'm currently working on
 
-- Javascript [Flatiron School](https://flatironschool.com)
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+- Node.js
+- Creating responsive and accessible websites
 
 📕 My Blogs
 
@@ -22,8 +22,8 @@ I am currently enrolled in the Flatiron School Software Engineering program and 
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrufinob&theme=onedark)
+<img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrufinob&theme=onedark"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark)
+<img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark"/>
 
 </div>
