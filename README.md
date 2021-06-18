@@ -4,7 +4,7 @@
 
 ### I'm currently working on
 
-- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [JavaScript Algorithms and Data Structures Masterclass by Colt Steele](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ### I'm currently learning
