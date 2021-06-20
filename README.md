@@ -2,7 +2,7 @@
 
 ## I graduated from Flatiron School Software Engineering program and looking to collaborate with other content creators
 
-🌱 I am current learning Node.js, responsive web design, and Data Structures and Algorithms
+🌱 I am current learning Node.js, creating responsive and accessible web design, and Data Structures and Algorithms
 
 📕 My Blogs
 
