@@ -41,7 +41,7 @@ Chocolate sharing application where users can see and write about chocolates the
 
 ### Technologies: Ruby, Rails, SQL, JavaScript, ReactJS, Redux, HTML, CSS
 
-### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino)
+### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) [Portfolio](https://brenda-ferrufino.netlify.app/)
 
 <div align="center">
 
