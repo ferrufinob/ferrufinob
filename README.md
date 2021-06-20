@@ -13,6 +13,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) | [Portfolio](https://brenda-ferrufino.netlify.app/)
+
 ### Recent Projects
 
 🏷 Bookmarkd [Frontend](https://github.com/ferrufinob/Bookmarkd_Frontend) | [Backend](https://github.com/ferrufinob/Bookmarkd_Backend)
@@ -40,8 +42,6 @@ Chocolate sharing application where users can see and write about chocolates the
 - Construct model level validations to prevent invalid data from persisting in the database.
 
 ### Technologies: Ruby, Rails, SQL, JavaScript, ReactJS, Redux, HTML, CSS
-
-### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) | [Portfolio](https://brenda-ferrufino.netlify.app/)
 
 <div align="center">
 
