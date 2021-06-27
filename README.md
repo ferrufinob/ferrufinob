@@ -2,7 +2,12 @@
 
 ## I graduated from Flatiron School Software Engineering program and looking to collaborate with other content creators
 
-🌱 I am current learning Node.js, creating responsive and accessible web design, and Data Structures and Algorithms
+🔭 I am current working
+
+- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- React Hooks
 
 📕 My Blogs
 
