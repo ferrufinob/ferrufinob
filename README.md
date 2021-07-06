@@ -18,7 +18,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) | [Portfolio](https://brenda-ferrufino.netlify.app/)
+### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) | [Portfolio](https://brenda-ferrufino.netlify.app/) | [Twitter](https://twitter.com/BrendaFerrufin4)
 
 ### Technologies: Ruby, Rails, SQL, JavaScript, ReactJS, Redux, HTML, CSS
 
