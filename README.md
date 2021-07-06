@@ -2,7 +2,7 @@
 
 ## I graduated from Flatiron School Software Engineering program and looking to collaborate with other content creators
 
-🔭 I am current working
+🔭 I am current working on
 
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 - [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
