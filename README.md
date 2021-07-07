@@ -18,7 +18,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with Me: [Portfolio](https://brenda-ferrufino.netlify.app/) | <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-brendaferrufino.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> | <img alt="Twitter" src="https://img.shields.io/badge/BrendaFerrufin4-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) | [Portfolio](https://brenda-ferrufino.netlify.app/) | [Twitter](https://twitter.com/BrendaFerrufin4)
 
 ### Technologies:
 
