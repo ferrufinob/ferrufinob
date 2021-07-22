@@ -7,7 +7,9 @@
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 - [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
-- React Hooks
+- Responsive Web Design Course by FreeCodeCamp
+
+🌻 On my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
 📕 My Blogs
 
@@ -47,8 +49,6 @@
 </p>
 
 <div align="center">
-
-<img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrufinob&theme=onedark"/>
 
 <img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark"/>
 
