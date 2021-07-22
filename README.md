@@ -9,7 +9,7 @@
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - Responsive Web Design Course by FreeCodeCamp
 
-🌻 On my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
+🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
 📕 My Blogs
 
