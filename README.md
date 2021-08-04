@@ -52,4 +52,5 @@
 
 <img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark"/>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrufinob" alt="ferrufinob" />
 </div>
