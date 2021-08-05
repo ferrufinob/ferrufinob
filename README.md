@@ -17,6 +17,7 @@
 
 - [My First JavaScript Application](https://brendaferrufino-22455.medium.com/my-javascript-learning-journey-729dd32a5b20)
 - [React-ing with Redux](https://brenda-ferrufino.medium.com/react-redux-project-9a7f6a215ee8)
+- [A guide for future Flatiron School students](https://brenda-ferrufino.medium.com/a-guide-for-future-flatiron-school-students-31f605ec79ce)
 
 <!-- BLOG-POST-LIST:END -->
 
