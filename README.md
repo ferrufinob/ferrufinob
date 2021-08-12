@@ -21,7 +21,11 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with Me: [Linkedin](https://www.linkedin.com/in/brendaferrufino) | [Portfolio](https://brenda-ferrufino.netlify.app/) | [Twitter](https://twitter.com/BrendaFerrufin4)
+### Connect with Me:
+
+<a href="https://www.linkedin.com/in/brendaferrufino"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/BrendaFerrufin4"><img src="https://img.shields.io/twitter/follow/BrendaFerrufin4?label=Twitter&style=social" alt="Twitter">
+<a href="https://brenda-ferrufino.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-pink" alt="Portfolio">
 
 ### Technologies:
 
@@ -53,5 +57,10 @@
 
 <img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark"/>
 
+</div>
+
+<div align="center">
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrufinob" alt="ferrufinob" />
+
 </div>
