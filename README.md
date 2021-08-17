@@ -2,12 +2,12 @@
 
 ## I graduated from Flatiron School Software Engineering program and looking to collaborate with other content creators
 
-🔭 I am current working on
+🔭 I am currently working on...
 
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [Ace the JavaScript Coding Interview by Educative.io](https://www.educative.io/path/ace-javascript-coding-interview)
 - [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
-- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
-- Responsive Web Design Course by FreeCodeCamp
+- [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
 
 🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=onedark"/>
+<img align="center space-around" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferrufinob&show_icons=true&theme=darcula"/>
 
 </div>
 
