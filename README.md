@@ -8,7 +8,7 @@
 - [Ace the JavaScript Coding Interview by Educative.io](https://www.educative.io/path/ace-javascript-coding-interview)
 - [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
 - [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
-- learning to write tests forg my code using Jest, Mocha and Chai
+- learning to write tests for my code using Jest, Mocha and Chai
 
 🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
