@@ -4,11 +4,15 @@
 
 🔭 I am currently working on...
 
-- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-- [Ace the JavaScript Coding Interview by Educative.io](https://www.educative.io/path/ace-javascript-coding-interview)
+<!-- - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) -->
+
+My main focus at the moment is to brush up on fundamentals, improve existing projects and to be able to solve DSA problems. Resources that I am using at the moment to help me are :
+
+- [JavaScript Algorithms and Data Structure Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [Grokking the Coding Interview by Educative.io](https://www.educative.io/courses/grokking-the-coding-interview)
 - [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
 - [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
-- learning to write tests forg my code using Jest, Mocha and Chai
+- learning to write unit tests with jest, mocha and chai
 
 🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
