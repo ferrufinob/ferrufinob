@@ -12,7 +12,11 @@ My main focus at the moment is to brush up on fundamentals, improve existing pro
 - [Grokking the Coding Interview by Educative.io](https://www.educative.io/courses/grokking-the-coding-interview)
 - [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
 - [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
+<<<<<<< HEAD
 - learning to write unit tests with jest, mocha and chai
+=======
+- learning to write tests for my code using Jest, Mocha and Chai
+>>>>>>> 2b8d0b643cbaaf49bf59a4a00c847c4755a4f9b8
 
 🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
