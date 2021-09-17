@@ -2,7 +2,7 @@
 
 ## I graduated from Flatiron School Software Engineering program and looking to collaborate with other content creators
 
-🔭 I am currently working on...
+### 🔭 I am currently working on...
 
 <!-- - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) -->
 
@@ -14,9 +14,11 @@ My main focus at the moment is to brush up on fundamentals, improve existing pro
 - [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
 - learning to write unit tests with jest, mocha and chai
 
-🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
+### Deployed projects
 
-📕 My Blogs
+- [Studynook](https://studynook-flashcards.netlify.app/):: Single-Page Application with vanilla JS and Rails API where users can create flashcards
+
+### 📕 My Blogs
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -25,6 +27,8 @@ My main focus at the moment is to brush up on fundamentals, improve existing pro
 - [A guide for future Flatiron School students](https://brenda-ferrufino.medium.com/a-guide-for-future-flatiron-school-students-31f605ec79ce)
 
 <!-- BLOG-POST-LIST:END -->
+
+🌻 In my free time I enjoy hiking 🏔, hanging out with my cat sprinkles 😸, and cooking 🌮 🥘
 
 ### Connect with Me:
 
