@@ -10,13 +10,11 @@ My main focus at the moment is to brush up on fundamentals, improve existing pro
 
 - [JavaScript Algorithms and Data Structure Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [Grokking the Coding Interview by Educative.io](https://www.educative.io/courses/grokking-the-coding-interview)
-- [Reading Eloquent JavaScript](https://eloquentjavascript.net/)
 - [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
-- learning to write unit tests with jest, mocha and chai
 
-### Deployed projects
+### 🛫 Deployed projects
 
-- [Studynook](https://studynook-flashcards.netlify.app/):: Single-Page Application with vanilla JS and Rails API where users can create flashcards
+- [Studynook](https://studynook-flashcards.netlify.app/):: Single-Page Application with vanilla JS and Rails API where users can create flashcards(best viewed on desktop, currently working on mobile responsiveness)
 
 ### 📕 My Blogs
 
