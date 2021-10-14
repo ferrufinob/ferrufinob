@@ -9,7 +9,7 @@
 My main focus at the moment is to brush up on fundamentals, improve existing projects and to be able to solve DSA problems. Resources that I am using at the moment to help me are :
 
 - [JavaScript Algorithms and Data Structure Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-- [Grokking the Coding Interview by Educative.io](https://www.educative.io/courses/grokking-the-coding-interview)
+- [TypeScript Basics by Execute Program](https://www.executeprogram.com/courses)
 - [JavaScript Arrays by Execute Program](https://www.executeprogram.com/courses)
 
 ### 🛫 Deployed projects
